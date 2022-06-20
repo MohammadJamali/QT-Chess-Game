@@ -21,6 +21,6 @@ project. long story short i decided to complete and publish it on GitHub. maybe 
 What do you need to do to complete this game ?
 Handle King movements to avoid getting to the conflicts, which is easy task, just run checkmate checker before
 king movement with a temporary chessboard and combine the results with current move places. It's that simple!
-however i don't have time to work on it more, maybe i will have done it in the future, who knows ?!
+however i don't have time to work on it more, maybe i will done it in the future, who knows ?!
 
 Goodluck with that.
